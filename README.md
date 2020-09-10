@@ -12,12 +12,12 @@
 7. Create a pull request for me to this (original) repo. (Hint: you can use the "New pull request" button and then do a "compare across forks").
 
 
-1. Fantastic yeasts and where to find them: the hidden diversity of dimorphic fungal pathogens 
-2. The Rise of Coccidioides: Forces Against the Dust Devil Unleashed 
+- Fantastic yeasts and where to find them: the hidden diversity of dimorphic fungal pathogens 
+- The Rise of Coccidioides: Forces Against the Dust Devil Unleashed 
 -- MCC Van Dyke et al., 2019
 
-1. An analysis of the forces required to drag sheep over various surfaces 
+- An analysis of the forces required to drag sheep over various surfaces 
 -- JT Harvey, Applied Ergonomics, 2002
 
-1. Correlation of continuous cardiac output measured by a pulmonary artery catheter versus impedance cardiography in ventilated patients 
+- Correlation of continuous cardiac output measured by a pulmonary artery catheter versus impedance cardiography in ventilated patients 
 -- DW Ziegler et al., 2005
